@@ -9,7 +9,7 @@
     Author            = 'Lage Berger Jensen'
     CompanyName       = ''
     Copyright         = '(c) 2020 Lage Berger Jensen. All rights reserved.'
-    Description       = ''
+    Description       = 'Note-taking module for Powershell based on this article: https://knowledgework.substack.com/p/how-to-take-smart-notes-in-obsidian by Josh Duffney.'
     FunctionsToExport = @(
         'ConvertTo-PermanentNote',
         'Get-NotesByKeyword',

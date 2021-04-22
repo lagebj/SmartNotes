@@ -148,7 +148,7 @@ Properties {
     # Path to the release notes file.  Set to $null if the release notes reside in the manifest file.
     # The contents of this file are used during publishing for the ReleaseNotes parameter.
     [System.Diagnostics.CodeAnalysis.SuppressMessage('PSUseDeclaredVarsMoreThanAssigments', '')]
-    $ReleaseNotesPath = "$ModuleRootDir\ReleaseNotes.md"
+    $ReleaseNotesPath = $null
 
     # ----------------------- Misc properties ---------------------------------
 
