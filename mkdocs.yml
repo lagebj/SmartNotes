@@ -1,0 +1,9 @@
+site_name: SmartNotes
+repo_url: https://github.com/lagebj/SmartNotes
+theme: readthedocs
+pages:
+  - Home: index.md
+  - SmartNotes Basics:
+    - What is SmartNotes: about.md
+    - Quick Start: quick-start.md
+  - Acknowledgements: acknowledgements.md
